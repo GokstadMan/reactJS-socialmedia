@@ -1,8 +1,9 @@
 import './App.css';
+import'bootstrap';
 
 function App() {
   return (
-    <div>
+    <div class ='bg-success text-primary'>
       Hællæ
     </div>
   );
